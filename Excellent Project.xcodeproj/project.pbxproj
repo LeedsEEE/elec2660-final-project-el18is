@@ -51,6 +51,8 @@
 		ED54ED851F90BE4500225D1E /* Excellent ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Excellent ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED54ED891F90BE4500225D1E /* Excellent_ProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Excellent_ProjectUITests.m; sourceTree = "<group>"; };
 		ED54ED8B1F90BE4500225D1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED54ED971F90BF8600225D1E /* photo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo2.png; sourceTree = "<group>"; };
+		ED54ED981F90BFAF00225D1E /* photo.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,8 @@
 				ED54ED6E1F90BE4500225D1E /* Assets.xcassets */,
 				ED54ED701F90BE4500225D1E /* LaunchScreen.storyboard */,
 				ED54ED731F90BE4500225D1E /* Info.plist */,
+				ED54ED981F90BFAF00225D1E /* photo.JPG */,
+				ED54ED971F90BF8600225D1E /* photo2.png */,
 				ED54ED741F90BE4500225D1E /* main.m */,
 			);
 			path = "Excellent Project";

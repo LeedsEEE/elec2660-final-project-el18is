@@ -26,4 +26,15 @@
 }
 
 
+- (IBAction)buttonPressed:(UIButton *)sender {
+    
+    [sender setBackgroundImage:[UIImage imageNamed:@"photo1.JPG"] forState:UIControlStateNormal];
+    
+}
+
+- (IBAction)specialButtonPressed:(UIButton *)sender {
+    
+    [sender setBackgroundImage:[UIImage imageNamed:@"photo2.png"] forState:UIControlStateNormal];
+    
+}
 @end

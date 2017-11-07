@@ -15,6 +15,7 @@
 		ED54ED751F90BE4500225D1E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ED54ED741F90BE4500225D1E /* main.m */; };
 		ED54ED7F1F90BE4500225D1E /* Excellent_ProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ED54ED7E1F90BE4500225D1E /* Excellent_ProjectTests.m */; };
 		ED54ED8A1F90BE4500225D1E /* Excellent_ProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = ED54ED891F90BE4500225D1E /* Excellent_ProjectUITests.m */; };
+		ED54ED9C1F90C51200225D1E /* photo2.png in Resources */ = {isa = PBXBuildFile; fileRef = ED54ED971F90BF8600225D1E /* photo2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		ED54ED851F90BE4500225D1E /* Excellent ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Excellent ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED54ED891F90BE4500225D1E /* Excellent_ProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Excellent_ProjectUITests.m; sourceTree = "<group>"; };
 		ED54ED8B1F90BE4500225D1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED54ED971F90BF8600225D1E /* photo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				ED54ED6E1F90BE4500225D1E /* Assets.xcassets */,
 				ED54ED701F90BE4500225D1E /* LaunchScreen.storyboard */,
 				ED54ED731F90BE4500225D1E /* Info.plist */,
+				ED54ED971F90BF8600225D1E /* photo2.png */,
 				ED54ED741F90BE4500225D1E /* main.m */,
 			);
 			path = "Excellent Project";
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED54ED721F90BE4500225D1E /* LaunchScreen.storyboard in Resources */,
+				ED54ED9C1F90C51200225D1E /* photo2.png in Resources */,
 				ED54ED6F1F90BE4500225D1E /* Assets.xcassets in Resources */,
 				ED54ED6D1F90BE4500225D1E /* Main.storyboard in Resources */,
 			);

@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //Test change from new machine
 }
 
 
@@ -26,4 +27,15 @@
 }
 
 
+- (IBAction)buttonPressed:(UIButton *)sender {
+    
+    [sender setBackgroundImage:[UIImage imageNamed:@"photo1.JPG"] forState:UIControlStateNormal];
+    
+}
+
+- (IBAction)specialButtonPressed:(UIButton *)sender {
+    
+    [sender setBackgroundImage:[UIImage imageNamed:@"photo2.png"] forState:UIControlStateNormal];
+    
+}
 @end

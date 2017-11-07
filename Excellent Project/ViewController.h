@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)buttonPressed:(UIButton *)sender;
+- (IBAction)specialButtonPressed:(UIButton *)sender;
 
 @end
 
